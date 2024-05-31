@@ -27,5 +27,5 @@ dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:2.0.0")
     implementation("org.jdbi:jdbi3-core:3.45.1")
     implementation("org.jdbi:jdbi3-kotlin:3.45.1")
-    implementation("com.h2database:h2:2.1.214")
+    implementation("com.h2database:h2:2.2.224")
 }
