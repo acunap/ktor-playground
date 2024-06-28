@@ -26,6 +26,6 @@ dependencies {
     testImplementation("io.ktor:ktor-server-tests-jvm")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:2.0.0")
     implementation("org.jdbi:jdbi3-core:3.45.1")
-    implementation("org.jdbi:jdbi3-kotlin:3.45.1")
+    implementation("org.jdbi:jdbi3-kotlin:3.45.2")
     implementation("com.h2database:h2:2.2.224")
 }
